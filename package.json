@@ -1,0 +1,19 @@
+{
+  "name": "logdb",
+  "version": "0.1.0",
+  "description": "logdb =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuichi-tanaka/logdb.git"
+  },
+  "author": "yuichi-tanaka",
+  "license": "MITLicense",
+  "bugs": {
+    "url": "https://github.com/yuichi-tanaka/logdb/issues"
+  },
+  "homepage": "https://github.com/yuichi-tanaka/logdb"
+}
